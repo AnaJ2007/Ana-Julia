@@ -1,2 +1,8 @@
 # Ana-Julia
-Cursando o ensino médio.
+Cursando o Ensino Médio.
+
+Estou estudando na Alura.
+
+Estou me desenvolvendo na linguagem JavaScript.
+
+Estou fazendo curso de informatica na escola Fatore.
